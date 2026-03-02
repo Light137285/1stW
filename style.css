@@ -1,0 +1,51 @@
+.title {
+  font-size: 34px;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+.box-row {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+body {
+  background-image: url("https://coolbackgrounds.imgix.net/39sOStld2OCyNn3HmCpqco/21d339122a7cb417c83e6ebdc347ea5c/sea-edge-79ab30e2.png?w=640&q=60&auto=format,compress");
+  background-repeat: repeat;
+  background-size: 125%;
+}
+
+.SaraUL li {
+  margin-top: 25px;
+}
+
+.Sarahome {
+  background-color: white;
+  padding: 15px;
+  font-size: 25px;
+  width: 100px;
+}
+
+.Saralinkhome:link {
+  color: black;
+  text-decoration: none;
+}
+
+.Saralinkhome:visited {
+  color: black;
+}
+
+.Saralinkhome:hover {
+  color: brown;
+}
+
+.Saraguitar {
+  width: 100px;
+  left: 1000px;
+}
+  
+.Saralinkin:link {
+  color: black;
+}
